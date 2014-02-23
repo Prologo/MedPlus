@@ -1,4 +1,4 @@
 MedPlus
 =======
 
-app for doctors
+app for doctors by Prologo Interactive / Isaias Toledo
